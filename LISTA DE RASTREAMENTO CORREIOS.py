@@ -34,7 +34,7 @@ def main():
         print('-------------------------------------------------------------')
         print()
 
-    option = int(input('Quer fazer outro lista de Rastreamento?\n 1. SIM\n 2. NÃO\n'))
+    option = int(input('Quer fazer outra lista de Rastreamento?\n 1. SIM\n 2. NÃO\n'))
 
     if option == 1:
         main()
