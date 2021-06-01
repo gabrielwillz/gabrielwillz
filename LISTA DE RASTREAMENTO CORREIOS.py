@@ -7,7 +7,7 @@ def main():
     print('###############################')
     print()
 
-    codigos = int(input('Coloque número de rastreamentos que quer fazer: '))
+    codigos = int(input('Quantos rastreamentos quer fazer?: '))
     lista_rastreo = []
 
     i = 1
