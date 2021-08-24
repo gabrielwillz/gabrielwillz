@@ -22,3 +22,4 @@
  
 ##
 
+![Snake animation](https://github.com/gabrielwillz/gabrielwillz/blob/main/github-user-contribution.svg)
