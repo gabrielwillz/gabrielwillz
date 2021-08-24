@@ -1,6 +1,24 @@
-### Hey there 👋
+# Hi There, I'm Gabriel 👋
 
-## I'm Gabriel, just doing some small python projects for my improvement in this amazing language
------------------------------------------------------------------------------------------------
+<br />
+<div align="center">
+  <a href="https://github.com/JulianoVendramini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielwillz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwillz&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<br />
  
-i hope getting better and looking my first projects here to see my evolution :))
+ 
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to get more experience as a Data Science.
+- 🥅 2022 Goals: Become a Data Science.
+
+<br />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</div> 
+ 
+##
+
