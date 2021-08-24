@@ -1,4 +1,4 @@
-# Hi There, I'm Gabriel 👋
+# Hey There, I'm Gabriel 👋
 
 <br />
 <div align="center">
