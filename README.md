@@ -10,7 +10,7 @@
  
  
 - 🌱 I’m currently learning Python.
-- 👯 I’m looking to get more experience as a Data Science.
+- 📚 I’m looking to get more experience as a Data Science.
 - 🥅 2022 Goals: Become a Data Science.
 
 <br />
