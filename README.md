@@ -3,8 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/gabrielwillz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielwillz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwillz&layout=compact&langs_count=7&theme=dark"/>
+    ![gabrielwill's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielwill&count_private=true)
 </div>
 <br />
  
