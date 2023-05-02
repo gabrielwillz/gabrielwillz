@@ -1,11 +1,10 @@
 # Hey There, I'm Gabriel 👋
 
-<br />
-<div align="center">
-  <a href="https://github.com/gabrielwillz">
-    ![gabrielwill's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielwill&count_private=true)
-</div>
-<br />
+
+
+
+[![gabrielwillz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gabrielwillz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
  
  
 - 🌱 I’m currently learning Python.
